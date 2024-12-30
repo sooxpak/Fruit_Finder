@@ -1,0 +1,8 @@
+* { margin:0; padding:0;}
+.App {width:100%; min-height:100vh; display:flex; justify-content:center; flex-direction:column; background-color:#1c4142; text-align:center; color:#fff;  font-family: "Hahmlet", serif;}
+.wrap {width:100%; margin:5% 0;}
+h6 {margin:0 0 30px; font-size:22px;}
+label {font-size:18px; margin:0 20px;}
+input[type=checkbox], input[type=radio]  {margin:0 10px 0 0;}
+button {width:300px; height:40px; margin:0 auto; cursor:pointer;}
+#result { margin:50px 0; font-size:50px;}
